@@ -12,7 +12,7 @@ The solution for implementing the vocalink modulus check algorithm.
   + Maven dependency:
 ```xml
    <dependency>
-      <groupId>com.travellazy.vocalink</groupId>
+      <groupId>com.financejava.vocalink</groupId>
       <artifact>modulus-validator</artifact>
       <version>1.0</version>
       <packaging>jar<packaging>
